@@ -33,10 +33,24 @@ extern "C" void app_main(void)
 {
     while (true) {
 
-        for (int i = 0; i < num_leds; i++) {
+       for (int step = 0; step < num_leds; step++) {
             allOff();
-            leds[i]->ON();
-            printPattern(i);
+            int left = step;
+            int right = num_leds - 1 - step;
+            leds[left]->ON();
+            leds[right]->ON();
+            printPattern(left, right);
+            vTaskDelay(pdMS_TO_TICKS(200));
+            if (left >= right) break; // หยุดถ้าสองข้างชนกัน
+        }
+
+        for (int step = num_leds/2 - 1; step >= 0; step--) {
+            allOff();
+            int left = step;
+            int right = num_leds - 1 - step;
+            leds[left]->ON();
+            leds[right]->ON();
+            printPattern(left, right);
             vTaskDelay(pdMS_TO_TICKS(200));
         }
 
