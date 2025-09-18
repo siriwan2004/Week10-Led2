@@ -1404,3 +1404,133 @@
 443	576	7799144854928540	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
 576	7363	7799144855078549	CMakeFiles/flash	4e510b87fed4b23b
 576	7363	7799144855078549	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/flash	4e510b87fed4b23b
+149	378	7799146412494943	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+149	378	7799146412494943	bootloader/bootloader.elf	cefcd0b457e3f8ce
+149	378	7799146412494943	bootloader/bootloader.bin	cefcd0b457e3f8ce
+149	378	7799146412494943	bootloader/bootloader.map	cefcd0b457e3f8ce
+149	378	7799146412494943	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+149	378	7799146412494943	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+149	378	7799146412494943	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+149	378	7799146412494943	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+378	448	7799146414792780	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+378	448	7799146414792780	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+449	563	7799146416561741	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+449	563	7799146416561741	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+449	563	7799146416561741	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+449	563	7799146416561741	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+138	898	7799146412379752	esp-idf/main/CMakeFiles/__idf_main.dir/main.cpp.obj	603138e60b31bcbb
+899	1016	7799146419994848	esp-idf/main/libmain.a	eb3d62ad17bfbfaf
+1016	16625	7799146576860682	esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+1016	16625	7799146576860682	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+16625	17760	7799146577264731	LED_Flash_with_component.elf	3ba7b2a1e317ed3a
+17761	18065	7799146591584072	.bin_timestamp	811345d9504ac30b
+17761	18065	7799146591584072	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/.bin_timestamp	811345d9504ac30b
+18065	18189	7799146591658673	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+18065	18189	7799146591658673	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+153	280	7799146681725459	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+153	280	7799146681725459	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+135	354	7799146681545631	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+135	354	7799146681545631	bootloader/bootloader.elf	cefcd0b457e3f8ce
+135	354	7799146681545631	bootloader/bootloader.bin	cefcd0b457e3f8ce
+135	354	7799146681545631	bootloader/bootloader.map	cefcd0b457e3f8ce
+135	354	7799146681545631	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+135	354	7799146681545631	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+135	354	7799146681545631	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+135	354	7799146681545631	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+354	405	7799146683738558	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+354	405	7799146683738558	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+405	502	7799146685158146	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+405	502	7799146685158146	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+405	502	7799146685158146	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+405	502	7799146685158146	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+503	7175	7799146685224345	CMakeFiles/flash	4e510b87fed4b23b
+503	7175	7799146685224345	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/flash	4e510b87fed4b23b
+144	405	7799151517209967	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+144	405	7799151517209967	bootloader/bootloader.elf	cefcd0b457e3f8ce
+144	405	7799151517209967	bootloader/bootloader.bin	cefcd0b457e3f8ce
+144	405	7799151517209967	bootloader/bootloader.map	cefcd0b457e3f8ce
+144	405	7799151517209967	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+144	405	7799151517209967	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+144	405	7799151517209967	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+144	405	7799151517209967	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+406	466	7799151519819048	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+406	466	7799151519819048	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+466	583	7799151521523303	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+466	583	7799151521523303	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+466	583	7799151521523303	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+466	583	7799151521523303	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+132	891	7799151517079959	esp-idf/main/CMakeFiles/__idf_main.dir/main.cpp.obj	603138e60b31bcbb
+891	1010	7799151524682553	esp-idf/main/libmain.a	eb3d62ad17bfbfaf
+1010	16676	7799151682092881	esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+1010	16676	7799151682092881	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+16676	17787	7799151682531908	LED_Flash_with_component.elf	3ba7b2a1e317ed3a
+17788	18226	7799151696863966	.bin_timestamp	811345d9504ac30b
+17788	18226	7799151696863966	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/.bin_timestamp	811345d9504ac30b
+18227	18358	7799151698035746	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+18227	18358	7799151698035746	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+160	301	7799151833441779	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+160	301	7799151833441779	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+141	384	7799151833241341	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+141	384	7799151833241341	bootloader/bootloader.elf	cefcd0b457e3f8ce
+141	384	7799151833241341	bootloader/bootloader.bin	cefcd0b457e3f8ce
+141	384	7799151833241341	bootloader/bootloader.map	cefcd0b457e3f8ce
+141	384	7799151833241341	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+141	384	7799151833241341	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+141	384	7799151833241341	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+141	384	7799151833241341	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+384	436	7799151835670249	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+384	436	7799151835670249	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+436	539	7799151837158193	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+436	539	7799151837158193	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+436	539	7799151837158193	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+436	539	7799151837158193	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+539	7823	7799151837223347	CMakeFiles/flash	4e510b87fed4b23b
+539	7823	7799151837223347	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/flash	4e510b87fed4b23b
+132	353	7799152515020951	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+132	353	7799152515020951	bootloader/bootloader.elf	cefcd0b457e3f8ce
+132	353	7799152515020951	bootloader/bootloader.bin	cefcd0b457e3f8ce
+132	353	7799152515020951	bootloader/bootloader.map	cefcd0b457e3f8ce
+132	353	7799152515020951	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+132	353	7799152515020951	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+132	353	7799152515020951	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+132	353	7799152515020951	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+353	407	7799152517227497	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+353	407	7799152517227497	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+407	510	7799152518725071	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+407	510	7799152518725071	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+407	510	7799152518725071	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+407	510	7799152518725071	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+121	839	7799152514909972	esp-idf/main/CMakeFiles/__idf_main.dir/main.cpp.obj	603138e60b31bcbb
+840	959	7799152522097248	esp-idf/main/libmain.a	eb3d62ad17bfbfaf
+959	16445	7799152677688491	esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+959	16445	7799152677688491	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+16446	17580	7799152678156544	LED_Flash_with_component.elf	3ba7b2a1e317ed3a
+17580	17873	7799152692353278	.bin_timestamp	811345d9504ac30b
+17580	17873	7799152692353278	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/.bin_timestamp	811345d9504ac30b
+17873	17997	7799152692435145	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+17873	17997	7799152692435145	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+190	410	7799152963905948	bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+190	410	7799152963905948	bootloader/bootloader.elf	cefcd0b457e3f8ce
+190	410	7799152963905948	bootloader/bootloader.bin	cefcd0b457e3f8ce
+190	410	7799152963905948	bootloader/bootloader.map	cefcd0b457e3f8ce
+190	410	7799152963905948	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cefcd0b457e3f8ce
+190	410	7799152963905948	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.elf	cefcd0b457e3f8ce
+190	410	7799152963905948	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.bin	cefcd0b457e3f8ce
+190	410	7799152963905948	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader/bootloader.map	cefcd0b457e3f8ce
+411	468	7799152966111567	bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+411	468	7799152966111567	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	d072fed15d56a79a
+468	582	7799152967745721	CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+468	582	7799152967745721	bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+468	582	7799152967745721	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/bootloader-complete	cfbd7393afa05b8a
+468	582	7799152967745721	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	cfbd7393afa05b8a
+178	880	7799152963795150	esp-idf/main/CMakeFiles/__idf_main.dir/main.cpp.obj	603138e60b31bcbb
+881	1003	7799152970814325	esp-idf/main/libmain.a	eb3d62ad17bfbfaf
+1003	16856	7799153130119860	esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+1003	16856	7799153130119860	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esp_system/ld/sections.ld	1e174a7e00617db9
+16857	17915	7799153130568520	LED_Flash_with_component.elf	3ba7b2a1e317ed3a
+17916	18218	7799153144117115	.bin_timestamp	811345d9504ac30b
+17916	18218	7799153144117115	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/.bin_timestamp	811345d9504ac30b
+18218	18362	7799153144187255	esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+18218	18362	7799153144187255	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/esp-idf/esptool_py/CMakeFiles/app_check_size	f4c17e2a5f9ca16e
+18362	25121	7799153145633269	CMakeFiles/flash	4e510b87fed4b23b
+18362	25121	7799153145633269	D:/STIC 1/Week10-Led2/LED_Flash_with_component/build/CMakeFiles/flash	4e510b87fed4b23b
